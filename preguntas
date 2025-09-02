@@ -1,0 +1,48 @@
+Cual es el punto debil de PGP?
+El punto debil es su complejidad y gestion de claves
+
+Cuando es conveniente utilizar solamente cifrado simetrico?
+Cuando se requiere velocidad y eficiencia para procesar grandes volumenes de datos
+
+En que consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+1. Planificación y Requisitos
+
+Qué pasa: Definir qué hará el software, sus funcionalidades y también qué requisitos de seguridad debe cumplir.
+
+Seguridad: Identificar riesgos y amenazas, definir políticas de seguridad, y establecer requisitos de seguridad específicos (ej. autenticación, cifrado).
+
+2. Análisis de Riesgos
+
+Qué pasa: Evaluar posibles vulnerabilidades y amenazas al sistema.
+
+Seguridad: Realizar análisis de amenazas, evaluaciones de riesgos para priorizar controles y mitigaciones.
+
+3. Diseño Seguro
+
+Qué pasa: Crear la arquitectura y diseño del software.
+
+Seguridad: Incorporar principios de diseño seguro, como defensa en profundidad, control de acceso, separación de privilegios, validación de datos, etc.
+
+4. Implementación (Codificación) Segura
+
+Qué pasa: Escribir el código del software.
+
+Seguridad: Aplicar buenas prácticas de programación segura (validación de entradas, manejo de errores, evitar vulnerabilidades comunes como inyección SQL, XSS, buffer overflow).
+
+5. Pruebas de Seguridad
+
+Qué pasa: Verificar que el software funciona como se espera y sin errores.
+
+Seguridad: Realizar pruebas específicas de seguridad, como pruebas de penetración, análisis estático y dinámico del código, pruebas de vulnerabilidades.
+
+6. Despliegue
+
+Qué pasa: Poner el software en producción o en el entorno real.
+
+Seguridad: Configurar de forma segura el entorno, aplicar parches y actualizaciones, controlar accesos.
+
+7. Mantenimiento y Monitoreo
+
+Qué pasa: Actualizar y mejorar el software con el tiempo.
+
+Seguridad: Continuar monitoreando por vulnerabilidades, aplicar actualizaciones de seguridad, responder a incidentes, y realizar auditorías de seguridad periódicas.
